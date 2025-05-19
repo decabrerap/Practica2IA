@@ -18,11 +18,11 @@ Se utilizó **MLflow** para gestionar experimentos y **Flask** para desplegar el
 
 ## Estructura del proyecto
 Practica2IA/
-    app.py -> API Flask que expone el modelo
-    main.py -> Entrenamiento y logging del modelo
-    requirements.txt -> Dependencias del proyecto
-    README.md -> Guia del proyecto
-    mlruns/ -> Carpeta generada por MLflow
+- app.py -> API Flask que expone el modelo
+- main.py -> Entrenamiento y logging del modelo
+- requirements.txt -> Dependencias del proyecto
+- README.md -> Guia del proyecto
+- mlruns/ -> Carpeta generada por MLflow
 
 
 # Crear entorno virtual
