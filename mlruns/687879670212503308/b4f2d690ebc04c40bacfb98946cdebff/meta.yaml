@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/687879670212503308/b4f2d690ebc04c40bacfb98946cdebff/artifacts
+end_time: 1747607558190
+entry_point_name: ''
+experiment_id: '687879670212503308'
+lifecycle_stage: active
+run_id: b4f2d690ebc04c40bacfb98946cdebff
+run_name: welcoming-donkey-153
+run_uuid: b4f2d690ebc04c40bacfb98946cdebff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747607558164
+status: 4
+tags: []
+user_id: Kruger

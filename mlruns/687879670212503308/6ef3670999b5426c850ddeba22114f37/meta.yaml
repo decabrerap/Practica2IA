@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/687879670212503308/6ef3670999b5426c850ddeba22114f37/artifacts
+end_time: 1747608624165
+entry_point_name: ''
+experiment_id: '687879670212503308'
+lifecycle_stage: active
+run_id: 6ef3670999b5426c850ddeba22114f37
+run_name: dapper-sloth-931
+run_uuid: 6ef3670999b5426c850ddeba22114f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747608618368
+status: 3
+tags: []
+user_id: Kruger
